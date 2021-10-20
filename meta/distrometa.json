@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///C:/Users/Yassan12345/Documents/GitHub/Nebula/NebulaRoot/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "https://www.minecraft.net/en-us/feeds/community-content/rss",
+    "discord": {
+      "clientId": "899717353124794408",
+      "smallImageText": "mc_logo",
+      "smallImageKey": "Minecraft"
+    }
+  }
+}
